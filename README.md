@@ -1,11 +1,6 @@
 <div align="center">
 
-# **Bittensor Subnet Template** <!-- omit in toc -->
-[![Discord Chat](https://img.shields.io/discord/308323056592486420.svg)](https://discord.gg/bittensor)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
-
----
-
+# **Bittensor Subnet For ROKO Network** <!-- omit in toc -->
 ## The Incentivized Internet <!-- omit in toc -->
 
 [Discord](https://discord.gg/bittensor) • [Network](https://taostats.io/) • [Research](https://bittensor.com/whitepaper)
@@ -31,6 +26,7 @@ This template contains all the required installation instructions, scripts, and 
 - Creating custom incentive mechanisms and running these mechanisms on the subnets. 
 
 In order to simplify the building of subnets, this template abstracts away the complexity of the underlying blockchain and other boilerplate code. While the default behavior of the template is sufficient for a simple subnet, you should customize the template in order to meet your specific requirements.
+
 ---
 
 ## Introduction
